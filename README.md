@@ -1,10 +1,10 @@
-# Coffee Delivery ☕️
+# Café Delivery ☕️
 
 **Uma landing page para uma cafeteria online, onde o usuário pode pesquisar, filtrar por preço, adicionar cafés ao carrinho e finalizar pedidos, além de contar com um chat de suporte e histórico de compras.**
 
 ## 🔥 Introdução
 
-O **Coffee Delivery** é uma **landing page** desenvolvida para fornecer uma experiência de compra simples e intuitiva para amantes de café. O objetivo principal é permitir que os usuários:
+O **Café Delivery** é uma **landing page** desenvolvida para fornecer uma experiência de compra simples e intuitiva para amantes de café. O objetivo principal é permitir que os usuários:
 
 - Descubram e comprem seus cafés favoritos com facilidade.
 - Apliquem filtros de preço para escolher opções dentro do seu orçamento.
@@ -25,11 +25,3 @@ O **Coffee Delivery** é uma **landing page** desenvolvida para fornecer uma exp
 - **CSS**: Estilos e design para uma interface atrativa.
 - **JavaScript**: Funcionalidades interativas, como pesquisa, filtragem, carrinho de compras e chat.
 - **Bootstrap**: Framework para tornar a página responsiva e fácil de estilizar.
-
-## 👷 Autor  
-
-- **Ângelo Silvano**  - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)  
-
-## 📄 Licença  
-
-- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/CoffeeDelivery/tree/master?tab=License-1-ov-file).  
